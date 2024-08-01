@@ -26,7 +26,7 @@ cd path/to/your/project
 3. Install the required Node.js package:
 
 ```bash
-npm install
+npm install readline-sync
 ```
 
 ## Usage
